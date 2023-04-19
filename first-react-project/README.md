@@ -1,1 +1,1 @@
-<p>Primeiro exercício utilizando React.</p>
+<p>Primeiros exercícios utilizando React.</p>
