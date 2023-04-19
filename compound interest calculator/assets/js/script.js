@@ -1,4 +1,3 @@
-
 document.getElementById('calculate').addEventListener('click', () => {
    const value = document.getElementById('value').value;
    const fee = (document.getElementById('fee').value) / 100;
@@ -8,4 +7,3 @@ document.getElementById('calculate').addEventListener('click', () => {
 
    document.getElementById('total').innerHTML = ('R$ ' + total.toFixed(2).replace('.', ','));
 });
-
